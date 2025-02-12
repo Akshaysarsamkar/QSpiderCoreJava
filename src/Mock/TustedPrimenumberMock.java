@@ -4,7 +4,7 @@ public class TustedPrimenumberMock {
 
 	public static void main(String[] args) {
 
-		for (int num = 1; num <= 100; num++) {
+		for (int num = 1; num <= 1000; num++) {
 			// int num = 71;
 			int c = 0;
 			for (int i = 1; i <= num; i++) {
